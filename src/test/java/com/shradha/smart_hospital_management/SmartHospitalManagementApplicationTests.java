@@ -1,10 +1,10 @@
-package com.shradha.smart_hospital_managment;
+package com.shradha.smart_hospital_management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmartHospitalManagmentApplicationTests {
+class SmartHospitalManagementApplicationTests {
 
 	@Test
 	void contextLoads() {

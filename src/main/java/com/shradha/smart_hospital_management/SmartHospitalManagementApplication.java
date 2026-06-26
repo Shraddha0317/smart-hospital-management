@@ -1,13 +1,13 @@
-package com.shradha.smart_hospital_managment;
+package com.shradha.smart_hospital_management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartHospitalManagmentApplication {
+public class SmartHospitalManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartHospitalManagmentApplication.class, args);
+		SpringApplication.run(SmartHospitalManagementApplication.class, args);
 	}
 
 }

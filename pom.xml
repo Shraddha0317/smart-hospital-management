@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shradha</groupId>
-	<artifactId>smart-hospital-managment</artifactId>
+	<artifactId>smart-hospital-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
