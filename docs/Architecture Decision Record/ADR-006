@@ -1,0 +1,8 @@
+Decision: Use a BaseEntity with @MappedSuperclass.
+
+Reason:
+
+Eliminates duplication.
+Standardizes audit fields.
+Improves maintainability.
+Keeps business fields in domain entities.
